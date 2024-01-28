@@ -1,0 +1,38 @@
+{
+  "pistol_shoot": {
+    "subtitle": "sounds.flintlock_pistols.pistol_shoot",
+    "sounds": [
+      "flintlock_pistols:pistol_shoot"
+    ]
+  },
+  "pistol_reload_0": {
+    "subtitle": "sounds.flintlock_pistols.pistol_reload_0",
+    "sounds": [
+      "flintlock_pistols:pistol_reload_0"
+    ]
+  },
+  "pistol_reload_1": {
+    "subtitle": "sounds.flintlock_pistols.pistol_reload_1",
+    "sounds": [
+      "flintlock_pistols:pistol_reload_1"
+    ]
+  },
+  "pistol_reload_2": {
+    "subtitle": "sounds.flintlock_pistols.pistol_reload_1",
+    "sounds": [
+      "flintlock_pistols:pistol_reload_1"
+    ]
+  },
+  "bullet": {
+    "subtitle": "sounds.flintlock_pistols.bullet",
+    "sounds": [
+      "flintlock_pistols:bullet"
+    ]
+  },
+  "pistol_reload": {
+    "subtitle": "sounds.flintlock_pistols.pistol_reload",
+    "sounds": [
+      "flintlock_pistols:pistol_reload"
+    ]
+  }
+}

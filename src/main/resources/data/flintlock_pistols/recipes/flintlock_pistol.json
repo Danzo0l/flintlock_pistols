@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " _ ",
+    "##@",
+    " /$"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "_": {
+      "item": "minecraft:copper_ingot"
+    },
+    "/": {
+      "item": "minecraft:lever"
+    },
+    "@": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "$": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "flintlock_pistols:flintlock_pistol"
+  }
+}
