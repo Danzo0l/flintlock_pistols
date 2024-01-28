@@ -2,5 +2,12 @@
   "parent": "minecraft:item/handheld",
   "textures": {
     "layer0": "flintlock_pistols:item/pistol_pulling_1"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [ -80, 270, -40 ],
+      "translation": [ -0.5, 2, -2 ],
+      "scale": [ 0.8, 0.8, 0.8 ]
+    }
   }
 }
